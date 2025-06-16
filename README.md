@@ -14,12 +14,12 @@ A responsive clone of Netflix built **purely using HTML and CSS**. This project 
 
 ## 📂 Project Structure
 
-Resonsive-Netflix-Clone/
-│
-├── index.html
-├── style.css
-├── assets/
-│ └── images/ (logo, banners, thumbnails)
+- Resonsive-Netflix-Clone/
+- │
+- ├── index.html
+- ├── style.css
+- ├── assets/
+- │ └── images/ (logo, banners, thumbnails)
 
 ## 🛠️ Technologies Used
 
