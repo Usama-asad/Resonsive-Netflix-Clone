@@ -12,11 +12,6 @@ A responsive clone of Netflix built **purely using HTML and CSS**. This project 
 - 📁 Well-organized file structure
 - ❌ No JavaScript — built with only HTML & CSS!
 
-## 🚀 Live Demo
-
-Check out the live version here:  
-👉 [https://usama-asad.github.io/Resonsive-Netflix-Clone](https://usama-asad.github.io/Resonsive-Netflix-Clone) *(if deployed)*
-
 ## 📂 Project Structure
 
 Resonsive-Netflix-Clone/
@@ -39,12 +34,13 @@ This project was built as part of my learning journey in frontend development to
 - Understand responsive design without using frameworks
 - Prepare for real-world web development projects
 
-## 📸 Screenshots
+## 🎥 Demo Videos
 
-<!-- Add real screenshots here -->
-- 📱 Mobile View  
-- 💻 Desktop View  
-- 📺 Hero Section, Featured Content
+### 💻 Desktop View
+[![Watch Desktop Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Usama-asad/Resonsive-Netflix-Clone/blob/main/demo-video.webm)
+
+### 📱 Mobile View
+[![Watch Mobile Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Usama-asad/Resonsive-Netflix-Clone/blob/main/mobile-demo.webm)
 
 ## 📚 What I Learned
 
