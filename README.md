@@ -37,10 +37,10 @@ This project was built as part of my learning journey in frontend development to
 ## 🎥 Demo Videos
 
 ### 💻 Desktop View
-[![Watch Desktop Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Usama-asad/Resonsive-Netflix-Clone/blob/main/demo-video.webm)
+[![Watch Desktop Demo](https://github.com/Usama-asad/Resonsive-Netflix-Clone/blob/c3675b756ea9b8c99ad390d86af7d27e8a36de1b/demo%20video.webm)
 
 ### 📱 Mobile View
-[![Watch Mobile Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Usama-asad/Resonsive-Netflix-Clone/blob/main/mobile-demo.webm)
+[![Watch Mobile Demo](https://github.com/Usama-asad/Resonsive-Netflix-Clone/blob/c3675b756ea9b8c99ad390d86af7d27e8a36de1b/mobile%20demo.webm)
 
 ## 📚 What I Learned
 
